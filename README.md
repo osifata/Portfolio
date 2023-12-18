@@ -92,3 +92,29 @@
 **My Calendar app.**
 >Website design Application "My calendar" <img src="https://github.com/osifata/Portfolio/assets/103882155/d9db94e7-1d8b-4a4e-8569-7c3942087366"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/e427a31f-d2a1-46a8-8005-4fca33f9e445"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/e4e764b4-3499-4735-9c27-383adcdf8cb4"/>
 >https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/calendar
+
+
+
+## A third course and The fifth semester
+### Design of graphical user interfaces
+
+**User interaction.**
+>Сreating a phone page with buttons <img src="https://github.com/osifata/QML/assets/103882155/05f5dea9-ef97-4f89-bbae-d848cb06444f"/>
+>https://github.com/osifata/QML/tree/main/qml_3
+
+**View Model Lists.**
+>Creating a chat <img src="https://github.com/osifata/QML/assets/103882155/d3e2848c-0d91-4135-a7cf-af9a47e8a723"/> <img src="https://github.com/osifata/QML/assets/103882155/9fcd9052-4894-4513-8d1a-5ad4c79cf6b7"/>
+>https://github.com/osifata/QML/tree/main/qml_4
+>https://github.com/osifata/QML/tree/main/qml_5/signal
+
+**Stack View.**
+>Switching through 3 pages <img src="https://github.com/osifata/QML/assets/103882155/df42bd2a-8a45-4d8c-bdf4-e6b9781922bb"/>
+>https://github.com/osifata/QML/tree/main/qml_6
+
+**Standard interface elements.**
+>Login page <img src="https://github.com/osifata/QML/assets/103882155/d1f5150b-7078-47cb-b6e5-c1fa839b2424"/>
+>https://github.com/osifata/QML/tree/main/qml_7/task1
+
+**Swipe View.**
+>Swipe page <img src="https://github.com/osifata/QML/assets/103882155/ee86d857-792b-4c26-8d93-f3b2790eec60"/>
+>https://github.com/osifata/QML/tree/main/qml_8/horizontal
