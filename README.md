@@ -43,3 +43,6 @@
 **Implementation of the game.**
 >The implementation of the game 4 in a row <img src="https://github.com/osifata/Portfolio/assets/103882155/55278861-6e2d-4293-83ed-4078f4901b2e"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/44f9082d-37b2-41bd-8f49-bf57cf45d345"/>
 >https://gitlab.com/buzevich/homework_n/-/tree/main/2.3/Four_in_row?ref_type=heads
+
+**The final project.**
+>Creating a novel game with mini-games inside on the OOP <img src="https://github.com/osifata/Portfolio/assets/103882155/e38eb497-e3f7-4ef8-bc74-5544e02064a1"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/49dc6ceb-a442-4ac6-a6d1-7f27b7cc0d47"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/2ad8b03c-cb7c-4173-9013-0b71fb1c91b4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/7b3a837e-669b-4533-ada0-e1868a2bcbf4"/>
