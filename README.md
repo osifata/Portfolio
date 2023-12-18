@@ -1,9 +1,7 @@
 # Portfolio Buzevich Sofya \ Irkutsk State University FBKI \ Group 14324
 
-## A first course
-
+## A first course and The first semester
 ### Introduction to Programming
-
 
 **Basics of working with the turtle module.**
 >An arbitrary shape <img src="https://github.com/osifata/Portfolio/assets/103882155/23c0e7a1-697c-4e4b-b699-a4b0f6bea0ab"/>
@@ -15,13 +13,17 @@
 >https://gitlab.com/buzevich/homework_n/-/blob/main/1.1/Test_sys.py?ref_type=heads
 
 
+
+## A first course and The second semester
 ### Programming
 
 **PyGame. Sprite.**
 >Creating a small interactive <img src="https://github.com/osifata/Portfolio/assets/103882155/1004b6d4-1532-4485-97ca-256753226346"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/c45edc37-2833-458e-b5f3-4296c16e4286"/>
 >https://gitlab.com/buzevich/homework_n/-/blob/main/1.2/02.03_tree.py?ref_type=heads
 
->Creating an avoid game <img src="https://github.com/osifata/Portfolio/assets/103882155/0ef8a34f-dbd6-4760-8bc9-a0ad177d412a"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/88c5a6a2-5fb6-46fc-aa47-1433071804cd"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/6053cefb-8fae-44d6-b80c-8a8284e74af2"/>
+>Creating an avoid game 
+<img src="https://github.com/osifata/Portfolio/assets/103882155/0ef8a34f-dbd6-4760-8bc9-a0ad177d412a"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/88c5a6a2-5fb6-46fc-aa47-1433071804cd"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/6053cefb-8fae-44d6-b80c-8a8284e74af2"/>
+
 >https://gitlab.com/buzevich/homework_n/-/tree/main/1.2/02.21_pygame_1?ref_type=heads
 >https://gitlab.com/buzevich/homework_n/-/tree/main/1.2/02.21_pygame_2?ref_type=heads
 
@@ -30,6 +32,8 @@
 >https://gitlab.com/buzevich/homework_n/-/tree/main/1.2/04.15_snail?ref_type=heads
 
 
+
+## A second course and The third semester
 ### The basics of object-oriented programming
 
 **The solar system.**
