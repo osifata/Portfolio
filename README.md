@@ -86,7 +86,7 @@
 ### Web development technologies: client-side programming
 
 **Registration form for the conference.**
->Registration page design <img src="https://github.com/osifata/Portfolio/assets/103882155/941e056b-fa5a-4219-b4e3-f8a9e15786a9"/>
+>Registration page design <img src="https://github.com/osifata/Portfolio/assets/103882155/941e056b-fa5a-4219-b4e3-f8a9e15786a9"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/220b2c03-9097-4f9e-9cbf-422d53de52f4"/>
 >https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/forms
 
 **My Calendar app.**
