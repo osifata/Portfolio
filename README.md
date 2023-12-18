@@ -81,3 +81,14 @@
 **The puzzle.**
 >Сreating a page where you can play puzzles <img src="https://github.com/osifata/Portfolio/assets/103882155/6ed90134-2098-4baf-8109-f9aa8a4acf16"/>
 >https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/pazle
+
+## A second course and The fourth semester
+### Web development technologies: client-side programming
+
+**Registration form for the conference.**
+>Registration page design <img src="https://github.com/osifata/Portfolio/assets/103882155/941e056b-fa5a-4219-b4e3-f8a9e15786a9"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/forms
+
+**My Calendar app.**
+>Website design Application "My calendar" <img src="https://github.com/osifata/Portfolio/assets/103882155/d9db94e7-1d8b-4a4e-8569-7c3942087366"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/e427a31f-d2a1-46a8-8005-4fca33f9e445"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/e4e764b4-3499-4735-9c27-383adcdf8cb4"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/calendar
