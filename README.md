@@ -12,7 +12,18 @@
 >Creating a quiz <img src="https://github.com/osifata/Portfolio/assets/103882155/18a3b4a9-d420-4904-b7c9-33f5261e388a"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/01f30374-61af-422b-a645-8e820f31a0a3"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/3a5da6a2-b984-4158-bbaa-3baa78312e0e"/>
 >https://gitlab.com/buzevich/homework_n/-/blob/main/1.1/Test_sys.py?ref_type=heads
 
+### Network content markup languages
+**Link and Image Design.**
+>Сreate a photo gallery <img src="https://github.com/osifata/Portfolio/assets/103882155/ebd7ed87-b7e0-48b7-a577-d1c9c548a9e0"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/591adc9a-7d65-400d-9018-df81eba00739"/>
+>https://github.com/osifata/Network-content-markup-languages/tree/main/html
 
+**Backgrounds and frames.**
+>Arrange the text with frames and patterns <img src="https://github.com/osifata/Portfolio/assets/103882155/2c733bf3-ca7b-4da5-8148-d4f1940686d5"/>
+>https://github.com/osifata/Network-content-markup-languages/tree/main/rams
+
+**Flex Grid.**
+>Arrange the type of goods in the store <img src="https://github.com/osifata/Portfolio/assets/103882155/2e19439d-3ed2-43b5-af80-cb26e252abe4"/>
+>https://github.com/osifata/Network-content-markup-languages/tree/main/flex
 
 ## A first course and The second semester
 ### Programming
@@ -47,3 +58,26 @@
 **The final project.**
 >Creating a novel game with mini-games inside on the OOP <img src="https://github.com/osifata/Portfolio/assets/103882155/e38eb497-e3f7-4ef8-bc74-5544e02064a1"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/49dc6ceb-a442-4ac6-a6d1-7f27b7cc0d47"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/2ad8b03c-cb7c-4173-9013-0b71fb1c91b4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/7b3a837e-669b-4533-ada0-e1868a2bcbf4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/56def58a-5932-47a1-9ce0-e20588817bae"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/ed121161-e150-41ce-96d1-471cc3818067"/>
 >https://gitlab.com/Fyrelby1/project_oop
+
+
+### Web development technologies: client-side programming
+
+**Tasks for working with DOM.**
+>Creating a calendar <img src="https://github.com/osifata/Portfolio/assets/103882155/8137b073-82c7-4269-9338-c5b82aacf774"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/zadaniya-na-rabotu-s-dom
+
+**Business Card Designer.**
+>Design of a page that can create business cards <img src="https://github.com/osifata/Portfolio/assets/103882155/4e0b6dee-5cca-4342-871d-bf5307a26ffb"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/vis
+
+**Task List.**
+>Design a page where you can create tasks <img src="https://github.com/osifata/Portfolio/assets/103882155/514fa077-7a33-4d86-a96b-6266929cba5e"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/spisok
+
+**MineSweeper Game.**
+>Develop a minesweeper game <img src="https://github.com/osifata/Portfolio/assets/103882155/2e73524c-8373-480e-9cc2-3e32ec38b879"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/saper
+
+**The puzzle.**
+>Сreating a page where you can play puzzles <img src="https://github.com/osifata/Portfolio/assets/103882155/6ed90134-2098-4baf-8109-f9aa8a4acf16"/>
+>https://github.com/osifata/Web-development-technologies-client-side-programming/tree/main/pazle
