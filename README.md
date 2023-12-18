@@ -45,5 +45,5 @@
 >https://gitlab.com/buzevich/homework_n/-/tree/main/2.3/Four_in_row?ref_type=heads
 
 **The final project.**
->Creating a novel game with mini-games inside on the OOP <img src="https://github.com/osifata/Portfolio/assets/103882155/e38eb497-e3f7-4ef8-bc74-5544e02064a1"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/49dc6ceb-a442-4ac6-a6d1-7f27b7cc0d47"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/2ad8b03c-cb7c-4173-9013-0b71fb1c91b4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/7b3a837e-669b-4533-ada0-e1868a2bcbf4"/>
+>Creating a novel game with mini-games inside on the OOP <img src="https://github.com/osifata/Portfolio/assets/103882155/e38eb497-e3f7-4ef8-bc74-5544e02064a1"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/49dc6ceb-a442-4ac6-a6d1-7f27b7cc0d47"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/2ad8b03c-cb7c-4173-9013-0b71fb1c91b4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/7b3a837e-669b-4533-ada0-e1868a2bcbf4"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/56def58a-5932-47a1-9ce0-e20588817bae"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/ed121161-e150-41ce-96d1-471cc3818067"/>
 >https://gitlab.com/Fyrelby1/project_oop
