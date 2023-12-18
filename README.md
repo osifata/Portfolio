@@ -42,3 +42,4 @@
 
 **Implementation of the game.**
 >The implementation of the game 4 in a row <img src="https://github.com/osifata/Portfolio/assets/103882155/55278861-6e2d-4293-83ed-4078f4901b2e"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/44f9082d-37b2-41bd-8f49-bf57cf45d345"/>
+>https://gitlab.com/buzevich/homework_n/-/tree/main/2.3/Four_in_row?ref_type=heads
