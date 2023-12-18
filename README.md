@@ -103,9 +103,8 @@
 >https://github.com/osifata/QML/tree/main/qml_3
 
 **View Model Lists.**
->Creating a chat <img src="https://github.com/osifata/QML/assets/103882155/d3e2848c-0d91-4135-a7cf-af9a47e8a723"/> <img src="https://github.com/osifata/QML/assets/103882155/9fcd9052-4894-4513-8d1a-5ad4c79cf6b7"/>
+>Creating a chat <img src="https://github.com/osifata/QML/assets/103882155/d3e2848c-0d91-4135-a7cf-af9a47e8a723"/>
 >https://github.com/osifata/QML/tree/main/qml_4
->https://github.com/osifata/QML/tree/main/qml_5/signal
 
 **Stack View.**
 >Switching through 3 pages <img src="https://github.com/osifata/QML/assets/103882155/df42bd2a-8a45-4d8c-bdf4-e6b9781922bb"/>
@@ -118,3 +117,7 @@
 **Swipe View.**
 >Swipe page <img src="https://github.com/osifata/QML/assets/103882155/ee86d857-792b-4c26-8d93-f3b2790eec60"/>
 >https://github.com/osifata/QML/tree/main/qml_8/horizontal
+
+**Final Project**
+>Design of the mobile application <img src="https://github.com/osifata/Portfolio/assets/103882155/bcf9add6-2fa3-43f7-b296-8a4504fedc8d"/>
+>https://github.com/osifata/ProjectQML/tree/main/Project
