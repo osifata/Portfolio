@@ -22,7 +22,7 @@
 >https://gitlab.com/buzevich/homework_n/-/blob/main/1.2/02.03_tree.py?ref_type=heads
 
 >Creating an avoid game 
-<img src="https://github.com/osifata/Portfolio/assets/103882155/0ef8a34f-dbd6-4760-8bc9-a0ad177d412a"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/88c5a6a2-5fb6-46fc-aa47-1433071804cd"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/6053cefb-8fae-44d6-b80c-8a8284e74af2"/>
+<img src="https://github.com/osifata/Portfolio/assets/103882155/f9c25720-adf7-40f3-b4a1-54a9ca2fd625"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/88c5a6a2-5fb6-46fc-aa47-1433071804cd"/> <img src="https://github.com/osifata/Portfolio/assets/103882155/6053cefb-8fae-44d6-b80c-8a8284e74af2"/>
 
 >https://gitlab.com/buzevich/homework_n/-/tree/main/1.2/02.21_pygame_1?ref_type=heads
 >https://gitlab.com/buzevich/homework_n/-/tree/main/1.2/02.21_pygame_2?ref_type=heads
